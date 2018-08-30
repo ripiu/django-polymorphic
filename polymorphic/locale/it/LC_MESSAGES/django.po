@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-30 16:12+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/childadmin.py:44
+msgid "Contents"
+msgstr "Contenuto"
+
+#: admin/filters.py:17 admin/forms.py:11
+msgid "Type"
+msgstr "Tipo"
+
+#: admin/helpers.py:95 templatetags/polymorphic_formset_tags.py:47
+#, python-format
+msgid "Add another %(verbose_name)s"
+msgstr "Aggiungi un altro %(verbose_name)s"
+
+#: admin/helpers.py:104
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: admin/parentadmin.py:315
+#, python-format
+msgid "Add %s"
+msgstr "Aggiungi %s"
+
+#: templates/admin/polymorphic/edit_inline/stacked.html:17
+msgid "Change"
+msgstr "Modifica"
+
+#: templates/admin/polymorphic/edit_inline/stacked.html:19
+msgid "View on site"
+msgstr "Vedi sul sito"
+
+#: templatetags/polymorphic_formset_tags.py:51
+msgid "Delete"
+msgstr "Cancella"
